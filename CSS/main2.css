@@ -1,0 +1,54 @@
+body{
+    background-color: #f1f1f1f1;
+    margin-left: 360px;
+}
+.mol{
+    background-color: white;
+    width: 600px;
+    height: 155px;
+}
+.loy1{
+    display: block;
+    float: left;
+    margin: 25px;
+    font-size: 24px;
+    width: 60px;
+    height: 30px;
+    color: grey;
+}
+.loy2{
+    display: block;
+    float: left;
+    margin: 25px;
+    font-size: 24px;
+    width: 60px;
+    height: 30px;
+    color: grey;
+}
+.loy3{
+    display: block;
+    float: left;
+    margin: 25px;
+    font-size: 24px;
+    width: 60px;
+    height: 30px;
+    color: grey;
+}
+.loy4{
+    display: block;
+    float: left;
+    margin: 25px;
+    font-size: 24px;
+    width: 60px;
+    height: 30px;
+    color: grey;
+}
+.loy5{
+    display: block;
+    float: left;
+    margin: 25px;
+    font-size: 24px;
+    width: 60px;
+    height: 30px;
+    color: grey;
+}
