@@ -28,15 +28,14 @@
 .menu-item:nth-child(5){
     background-position: -152px top;
 }
-
 .menu-link{
     position: absolute;
-    top: 0;
     left: 38px;
+    top: 0;
     width: 0;
     height: 38px;
     text-align: center;
-    line-height: 39px;
+    line-height: 38px;
     transition: all 0.5s ease;
 }
 .menu-item:hover .menu-link{
@@ -60,5 +59,14 @@
 .menu-link a{
     text-decoration: none;
     color: #ffffff;
-    font-size: 23px;
+    font-size: 18px;
 }
+
+
+
+
+
+
+
+
+
